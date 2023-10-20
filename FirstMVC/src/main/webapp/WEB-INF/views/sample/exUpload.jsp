@@ -9,19 +9,19 @@
 	<body>
 		<form action="/sample/exUploadPost" method="post" enctype="multiPART/form-data">
 			<div>
-				<input type="file" name="file">
+				<input type="file" name="files">
 			</div>
 			<div>
-				<input type="file" name="file">
+				<input type="file" name="files">
 			</div>
 			<div>
-				<input type="file" name="file">
+				<input type="file" name="files">
 			</div>
 			<div>
-				<input type="file" name="file">
+				<input type="file" name="files">
 			</div>
 			<div>
-				<input type="file" name="file">
+				<input type="file" name="files">
 			</div>
 				<div>
 				<input type="submit">
